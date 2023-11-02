@@ -1,0 +1,44 @@
+[
+    {
+        "username": "shawonhimu",
+        "email": "shawonhimu@gmail.com",
+        "status": "admin",
+        "password": "shawonhimu"
+    },
+    {
+        "username": "himu",
+        "email": "himu@gmail.com",
+        "status": "admin",
+        "password": "himu"
+    },
+    {
+        "username": "prince",
+        "email": "prince@gmail.com",
+        "status": "admin",
+        "password": "prince"
+    },
+    {
+        "username": "Irfan",
+        "email": "Irfan@gmail.com",
+        "status": "manager",
+        "password": "Irfan"
+    },
+    {
+        "username": "afrin",
+        "email": "afrin@gmail.com",
+        "status": "user",
+        "password": "afrin"
+    },
+    {
+        "username": "habiba",
+        "email": "sohel@gmail.com",
+        "status": "admin",
+        "password": "sohelsohel"
+    },
+    {
+        "username": "samira",
+        "email": "sohel@gmail.com",
+        "status": "user",
+        "password": "sohel"
+    }
+]
